@@ -1,1 +1,1 @@
-worker: node Rajm
+worker: node index.js
